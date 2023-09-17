@@ -1,0 +1,15 @@
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\bin\Debug\net6.0\HelloUser.exe
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\bin\Debug\net6.0\HelloUser.deps.json
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\bin\Debug\net6.0\HelloUser.runtimeconfig.json
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\bin\Debug\net6.0\HelloUser.dll
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\bin\Debug\net6.0\HelloUser.pdb
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\HelloUser.csproj.AssemblyReference.cache
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\HelloUser.AssemblyInfoInputs.cache
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\HelloUser.AssemblyInfo.cs
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\HelloUser.csproj.CoreCompileInputs.cache
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\HelloUser.dll
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\refint\HelloUser.dll
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\HelloUser.pdb
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\HelloUser.genruntimeconfig.cache
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloUser\obj\Debug\net6.0\ref\HelloUser.dll
