@@ -1,0 +1,15 @@
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\01. Учеба\04. Введение в язык С#\1. Знакомство с языком лекция\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
